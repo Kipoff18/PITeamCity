@@ -1,0 +1,8 @@
+C:\Users\Kiril\source\с++ dz\PIteamcity\obj\Debug\PIteamcity.csproj.AssemblyReference.cache
+C:\Users\Kiril\source\с++ dz\PIteamcity\obj\Debug\PIteamcity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kiril\source\с++ dz\PIteamcity\obj\Debug\PIteamcity.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\с++ dz\PIteamcity\bin\Debug\PIteamcity.exe.config
+C:\Users\Kiril\source\с++ dz\PIteamcity\bin\Debug\PIteamcity.exe
+C:\Users\Kiril\source\с++ dz\PIteamcity\bin\Debug\PIteamcity.pdb
+C:\Users\Kiril\source\с++ dz\PIteamcity\obj\Debug\PIteamcity.exe
+C:\Users\Kiril\source\с++ dz\PIteamcity\obj\Debug\PIteamcity.pdb
