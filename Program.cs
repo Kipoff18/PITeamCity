@@ -31,6 +31,6 @@ namespace PIteamcity
             Console.WriteLine("Fermat's theorem holds for all numbers up to " + n);
         }
     }
-
+}
 
     //измение в коде
